@@ -6,9 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anigandini&label=Profile%20views&color=0e75b6&style=flat" alt="anigandini" /> </p>
 
 
-
-- 🌱 I’m currently learning **Blockchain development**
-
 - 👨‍💻 All of my projects are available at [https://anigandini.github.io](https://anigandini.github.io)
 
 - 💬 Ask me about **anything! :kissing_heart:**
